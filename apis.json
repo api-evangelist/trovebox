@@ -1,0 +1,69 @@
+{
+    "name": "Trovebox",
+    "description": "Trovebox lets you organize and archive your photos into a central location. You can select which photo services you use and where you'd like to store your photos.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1591-trovebox.jpg",
+    "tags": [
+        "have api",
+        "photos",
+        "reclaim your domain"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/trovebox\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Trovebox",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1591-trovebox.jpg",
+            "humanURL": "https:\/\/trovebox.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/trovebox-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/trovebox-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/current.trovebox.com\/"
+        },
+        {
+            "type": "Blog",
+            "url": "https:\/\/trovebox.com\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/trovebox.com\/blog\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/trovebox"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/trovebox"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/trovebox.com\/documentation"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/trovebox"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/trovebox.com\/"
+        }
+    ]
+}
